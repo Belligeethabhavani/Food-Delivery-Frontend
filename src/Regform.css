@@ -1,0 +1,19 @@
+.grad {
+  
+    height: 695px;
+    width: 1535px;
+    background: radial-gradient(rgb(147, 110, 161), rgb(34, 160, 167), rgb(147, 110, 161));
+  }
+  .box{
+    
+    text-align:left;
+    border: 5px outset #EEE4B1;
+    background-color:#FCF8F3;
+height: 500px;
+width: 375px;
+  }
+ /* .backgroundcolor{
+    background-image: radial-gradient(rgb(147, 110, 161), rgb(34, 160, 167), rgb(147, 110, 161));
+
+  }*/
+  

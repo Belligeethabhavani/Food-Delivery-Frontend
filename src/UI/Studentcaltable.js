@@ -1,0 +1,173 @@
+import React from 'react'
+
+export default function Studentcaltable() {
+  return (
+    <div>
+        <center>
+        <h2>
+            Student Results Status
+        </h2>
+       
+            <table>
+<tr>
+    <td>
+    STUDENT ID
+    </td>
+    <td>
+        STUDENT NAME
+    </td>
+    <td>
+        STUEDNT FINAL GRADE
+    </td>
+    <td>
+        STUDENT STATUS
+    </td>
+</tr>
+<tr>
+    <td>
+       32853
+    </td>
+    <td>
+    Geetha
+    </td>
+    <td>
+        92%
+    </td> 
+    <td>
+        Pass
+    </td>
+</tr>
+<tr>
+    <td>
+       32570
+    </td>
+    <td>
+    Durjoy
+    </td>
+    <td>
+        97%
+    </td> 
+    <td>
+        Pass
+    </td>
+   </tr>
+    <tr>
+    <td>
+       328123
+    </td>
+    <td>
+    Ram
+    </td>
+    <td>
+        93%
+    </td> 
+    <td>
+        Pass
+    </td>
+</tr>
+
+<tr>
+    <td>
+       32100
+    </td>
+    <td>
+    samera
+    </td>
+    <td>
+        38%
+    </td> 
+    <td>
+        Fail
+    </td>
+</tr>
+
+<tr>
+    <td>
+       32268
+    </td>
+    <td>
+  Ria
+    </td>
+    <td>
+  14%
+    </td> 
+    <td>
+        Fail
+    </td>
+</tr>
+
+<tr>
+    <td>
+       32427
+    </td>
+    <td>
+    Krishna Shyam
+    </td>
+    <td>
+        76%
+    </td> 
+    <td>
+        Pass
+    </td>
+</tr>
+<tr>
+    <td>
+       32688
+    </td>
+    <td>
+    Gopina
+    </td>
+    <td>
+        62%
+    </td> 
+    <td>
+        Pass
+    </td>
+</tr><tr>
+    <td>
+       32889
+    </td>
+    <td>
+    Jia
+    </td>
+    <td>
+        6%
+    </td> 
+    <td>
+        Fail
+    </td>
+</tr>
+<tr>
+    <td>
+       32345
+    </td>
+    <td>
+   Venu 
+    </td>
+    <td>
+        29%
+    </td> 
+    <td>
+        Fail
+    </td>
+</tr>
+<tr>
+    <td>
+       32559
+    </td>
+    <td>
+    Rani
+    </td>
+    <td>
+        55%
+    </td> 
+    <td>
+        Pass
+    </td>
+</tr>
+            </table>
+       
+        </center>
+    </div>
+  )
+}

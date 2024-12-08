@@ -1,0 +1,30 @@
+
+.heading {
+    color: #FF4191;
+    font-weight: bold ;
+    font-size: larger;
+    background: #378CE7;
+}
+
+.box{
+   
+    border: 5px outset #EEE4B1;
+    background-image: radial-gradient(rgb(147, 110, 161), rgb(34, 160, 167), rgb(147, 110, 161));
+height: 525px;
+width: 400px;
+
+}
+
+.image{
+    margin-top: 25px;
+    width:100px;
+    height:150px ;
+     border:5px outset #E0A75E;
+     border-radius: 10px;
+}
+.foot{
+    color: gold;
+    font-style: italic;
+}
+
+
